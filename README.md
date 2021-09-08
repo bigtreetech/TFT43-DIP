@@ -1,6 +1,6 @@
 # BTTDPI Drivers
 
-BTTDPI is an display for the Raspberry Pi, with optional capacitive touchscreen.
+BTTDPI is an display for the Raspberry Pi, with capacitive touchscreen.
 
 ## Installing / Uninstalling
 
