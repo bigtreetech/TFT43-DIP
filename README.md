@@ -7,13 +7,13 @@ BTTDPI is an display for the Raspberry Pi, with optional capacitive touchscreen.
 First, clone this GitHub repository branch to your Pi:
 
 ```
-git clone https://github.com/bigtreeetech/BTTDPI
+git clone https://github.com/bigtreetech/BTTDPI
 ```
 
 Then run the installer to install:
 
 ```
-cd BTTDPI
+cd ~/BTTDPI
 sudo ./install.sh
 ```
 
