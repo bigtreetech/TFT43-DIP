@@ -1,7 +1,9 @@
 # TFT43-DIP Drivers
+TFT43-DIP is an display for the Raspberry Pi with capacitive touchscreen.
 
-TFT43-DIP is an display for the Raspberry Pi with capacitive touchscreen. </br>
-The Raspberry Pi OS after `2022-04-04` has a built-in DPI driver, so we only need a simple configuration in `/boot/config.txt` file to use this screen.
+# Note
+* The Raspberry Pi OS after `2022-04-04` has a built-in DPI driver, so we only need a simple configuration in `/boot/config.txt` file to use this screen.
+* The OS of `2022-09-22` displays that the 180 degree rotation function is abnormal, please do not use it.
 
 ## Display function
 Add the following configuration to the `[all]` section of the `/boot/config.txt` file. (Generally, it can be added to the bottom of the `/boot/config.txt` file)
