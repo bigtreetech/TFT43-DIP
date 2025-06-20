@@ -43,7 +43,7 @@ dtparam=rotate_0
   dtparam=rotate=0
 
   dtoverlay=gt911_btt_tft43_dip
-  dtparam=rotate_0
+  dtparam=rotate=0
   ```
 
 ### Rotate 90 degrees display
@@ -58,5 +58,5 @@ dtparam=rotate_0
   dtparam=rotate=90
 
   dtoverlay=gt911_btt_tft43_dip
-  dtparam=rotate_90
+  dtparam=rotate=90
   ```
